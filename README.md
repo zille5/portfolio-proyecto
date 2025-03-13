@@ -111,7 +111,7 @@ Same navigation menu as main page for consistency<br>
 **The following technologies have been used for its realisation:**
 <div style="display: flex; gap: 10px;">
  
-  <img src="/frontend/public/Icon/html5.png" alt="Html5" width="150"/>
-  <img src="/frontend/public/Icon/CSS3.png" alt="Css3" width="150"/>
-  <img src="/frontend/public/Icon/javascript.png" alt="Javascript" width="150"/>
+  <img src="html5.png" alt="Html5" width="150"/>
+  <img src="CSS3.png" alt="Css3" width="150"/>
+  <img src="javascript.png" alt="Javascript" width="150"/>
   </div>
