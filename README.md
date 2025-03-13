@@ -107,6 +107,7 @@ Same navigation menu as main page for consistency<br>
 <br>
 <br>
 <br>
+
 **The following technologies have been used for its realisation:**
 <div style="display: flex; gap: 10px;">
  
