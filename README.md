@@ -48,9 +48,11 @@ Hire Me and Download CV buttons for quick actions<br>
 
 <br>
 <br>
+
 ----
 
 **About Me**
+
 <br>
 Professional introduction with description of web development expertise<br>
 Skills visualization with progress bars for HTML, CSS, and JavaScript<br>
