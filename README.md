@@ -31,10 +31,12 @@ A clean, modern, and responsive portfolio website built with pure HTML, CSS, and
 
 <br>
 <br>
+
 ------
 **Sections**
 <br>
 <br>
+
 
 **Header & Navigation**
 <br>
