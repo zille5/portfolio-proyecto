@@ -16,18 +16,8 @@ A clean, modern, and responsive portfolio website built with pure HTML, CSS, and
 <br>
 <br>
 
-**Thankyou Page**
 
-<br>
-<br>
 
-<div style="align-items: center;">
-  <img src="thankyou.png" width="500px" />
-</div>
-
-<br>
-<br>
-<br>
 
 **Features**
 
