@@ -18,6 +18,7 @@ A clean, modern, and responsive portfolio website built with pure HTML, CSS, and
 
 
 
+-----
 
 **Features**
 
@@ -30,7 +31,7 @@ A clean, modern, and responsive portfolio website built with pure HTML, CSS, and
 
 <br>
 <br>
-
+------
 **Sections**
 <br>
 <br>
@@ -45,15 +46,16 @@ Hire Me and Download CV buttons for quick actions<br>
 
 <br>
 <br>
+----
 
 **About Me**
 <br>
 Professional introduction with description of web development expertise<br>
 Skills visualization with progress bars for HTML, CSS, and JavaScript<br>
-Hire Me button for immediate call-to-action<br>
 
 <br>
 <br>
+---
 
 **Projects**
 <br>
@@ -68,12 +70,15 @@ Each project includes:
 
 <br>
 <br>
+---
+
 
 **Featured Projects:**
 <br>
 **Club De Arco:** Development project using HTML5 and CSS3 with standardized folder structure and component design
 **Tienda DE Reloj:** Online watch store with interactive features and optimized user experience
 **Landing Page:** Dream wishlist web application for creating and tracking personal goals
+---
 
 **Contact**
 
@@ -87,6 +92,7 @@ Message<br>
 
 Form validation to ensure proper input<br>
 Submit button that directs to a thank you confirmation page<br>
+-----
 
 **Thank You Page**
 
@@ -97,6 +103,7 @@ Same navigation menu as main page for consistency<br>
 <br>
 <br>
 <br>
+-----
 
 **The following technologies have been used for its realisation:**
 <div style="display: flex; gap: 10px;">

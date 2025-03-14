@@ -235,6 +235,7 @@ body.dark #moon{
     background: #8749f2;
     font-weight: 500;
     transition: all 0.5s ease;
+    cursor: pointer;
   }
 
   .btn i{
