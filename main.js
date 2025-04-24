@@ -17,3 +17,11 @@ const body = document.querySelector("body");
  toggleSwitch.addEventListener("click", ()=>{
     body.classList.toggle("dark");
  })
+
+
+ const menuBtn = document.querySelector(".nav-menu-btn");
+ const navMenu = document.querySelector(".nav-menu");
+
+ menuBtn.addEventListener("click", () => {
+   navMenu.classList.toggle("open");
+ });
